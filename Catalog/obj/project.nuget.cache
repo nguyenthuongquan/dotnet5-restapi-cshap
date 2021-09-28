@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tv959LcA1sGR+0zsQmb58uDef2LKTetQ40f9IezhRTOURHWO3NYLz/O7/ggQeh58LTjMMr3i6bP2WtizTLxeZw==",
+  "success": true,
+  "projectFilePath": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\build.proj",
+  "expectedPackageFiles": [
+    "C:\\Users\\QUANNGUYEN\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\QUANNGUYEN\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.0\\microsoft.netframework.referenceassemblies.net45.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
