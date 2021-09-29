@@ -7440,11 +7440,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+      "projectUniqueName": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
       "projectName": "Catalog.UnitTests",
-      "projectPath": "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+      "projectPath": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
       "packagesPath": "C:\\Users\\QUANNGUYEN\\.nuget\\packages\\",
-      "outputPath": "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\obj\\",
+      "outputPath": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QUANNGUYEN\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7459,8 +7459,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
-              "projectPath": "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj"
+            "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
+              "projectPath": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj"
             }
           }
         }
