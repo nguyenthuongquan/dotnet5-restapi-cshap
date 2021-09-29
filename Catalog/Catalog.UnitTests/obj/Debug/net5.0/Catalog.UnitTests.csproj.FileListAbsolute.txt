@@ -132,3 +132,7 @@ D:\QuanNguyen\Sofware-Testing\Projects-Demo\rest-api-csharp\Catalog\Catalog.Unit
 D:\QuanNguyen\Sofware-Testing\Projects-Demo\rest-api-csharp\Catalog\Catalog.UnitTests\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
 D:\QuanNguyen\Sofware-Testing\Projects-Demo\rest-api-csharp\Catalog\Catalog.UnitTests\bin\Debug\net5.0\Catalog.Api.dll
 D:\QuanNguyen\Sofware-Testing\Projects-Demo\rest-api-csharp\Catalog\Catalog.UnitTests\bin\Debug\net5.0\Catalog.Api.pdb
+d:\QuanNguyen\Sofware-Testing\Projects-Demo\rest-api-csharp\Catalog\Catalog.UnitTests\bin\Debug\net5.0\FluentAssertions.dll
+d:\QuanNguyen\Sofware-Testing\Projects-Demo\rest-api-csharp\Catalog\Catalog.UnitTests\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+d:\QuanNguyen\Sofware-Testing\Projects-Demo\rest-api-csharp\Catalog\Catalog.UnitTests\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+d:\QuanNguyen\Sofware-Testing\Projects-Demo\rest-api-csharp\Catalog\Catalog.UnitTests\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

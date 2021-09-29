@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj": {}
+    "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj": {}
   },
   "projects": {
-    "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
+    "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
+        "projectUniqueName": "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
         "projectName": "Catalog.Api",
-        "projectPath": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
+        "projectPath": "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj",
         "packagesPath": "C:\\Users\\QUANNGUYEN\\.nuget\\packages\\",
-        "outputPath": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\obj\\",
+        "outputPath": "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QUANNGUYEN\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -87,14 +87,14 @@
         }
       }
     },
-    "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj": {
+    "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+        "projectUniqueName": "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
         "projectName": "Catalog.UnitTests",
-        "projectPath": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
+        "projectPath": "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\Catalog.UnitTests.csproj",
         "packagesPath": "C:\\Users\\QUANNGUYEN\\.nuget\\packages\\",
-        "outputPath": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\obj\\",
+        "outputPath": "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QUANNGUYEN\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -109,8 +109,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
-                "projectPath": "D:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj"
+              "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj": {
+                "projectPath": "d:\\QuanNguyen\\Sofware-Testing\\Projects-Demo\\rest-api-csharp\\Catalog\\Catalog.Api\\Catalog.Api.csproj"
               }
             }
           }
@@ -125,6 +125,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
               "version": "[5.0.0, )"
